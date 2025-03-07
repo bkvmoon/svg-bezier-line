@@ -3,11 +3,11 @@
 _Using npm:_ 
 
 ```bash        
-npm install arrow-line 
+npm install svg-bezier-line 
 ```
 
 _Using yarn:_ 
 
 ```bash        
-yarn add arrow-line
+yarn add svg-bezier-line
 ```

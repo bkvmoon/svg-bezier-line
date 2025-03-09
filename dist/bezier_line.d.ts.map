@@ -1,0 +1,1 @@
+{"version":3,"file":"bezier_line.d.ts","sourceRoot":"","sources":["../src/bezier_line.ts"],"names":[],"mappings":"AAKA,OAAO,KAAK,KAAK,MAAM,SAAS,CAAC;AAGjC,QAAA,MAAM,UAAU,GACd,QAAQ,MAAM,GAAG,MAAM,EAAE,GAAG,KAAK,CAAC,WAAW,EAAE,EAC/C,aAAa,MAAM,GAAG,MAAM,EAAE,GAAG,KAAK,CAAC,WAAW,EAAE,EACpD,WAAU,KAAK,CAAC,OAAyB,KACxC,GA0DF,CAAC;AAmIF,eAAe,UAAU,CAAC"}
